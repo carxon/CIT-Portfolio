@@ -20,3 +20,5 @@
 6. [Project 6](p6)
      - [Lab-06](p6/cit281-lab6)
      - [Lab-07](p6/cit281-lab7)
+
+5. [Link to website](p7.txt)
