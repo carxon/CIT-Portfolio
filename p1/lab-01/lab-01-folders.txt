@@ -1,0 +1,38 @@
+﻿
+
+    Directory: C:\Users\Carrington\cit281
+
+
+Mode                 LastWriteTime         Length Name                  
+----                 -------------         ------ ----                  
+d-----         3/30/2021   8:07 PM                p1                    
+d-----         3/30/2021   8:08 PM                p2                    
+d-----         3/30/2021   8:08 PM                p3                    
+d-----         3/30/2021   8:08 PM                p4                    
+d-----         3/30/2021   8:08 PM                p5                    
+d-----         3/30/2021   8:08 PM                p6                    
+d-----         3/30/2021   8:08 PM                p7                    
+d-----         3/30/2021   8:08 PM                p8                    
+-a----         3/30/2021   7:48 PM          90019 lab-01-folders.png    
+-a----         3/30/2021   8:10 PM              0 lab-01-folders.txt    
+
+
+
+
+    Directory: C:\Users\Carrington\cit281
+
+
+Mode                 LastWriteTime         Length Name                  
+----                 -------------         ------ ----                  
+d-----         3/30/2021   8:07 PM                p1                    
+d-----         3/30/2021   8:08 PM                p2                    
+d-----         3/30/2021   8:08 PM                p3                    
+d-----         3/30/2021   8:08 PM                p4                    
+d-----         3/30/2021   8:08 PM                p5                    
+d-----         3/30/2021   8:08 PM                p6                    
+d-----         3/30/2021   8:08 PM                p7                    
+d-----         3/30/2021   8:08 PM                p8                    
+-a----         3/30/2021   7:48 PM          90019 lab-01-folders.png    
+-a----         3/30/2021   8:10 PM           1888 lab-01-folders.txt    
+
+
